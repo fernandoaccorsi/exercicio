@@ -1,0 +1,11 @@
+ALUNO 2
+MKDIR Accorsi( Criar pasta)
+CD Accorsi(Entrar na pasta)
+Git config --global user.name "fernandoaccorsi"
+Git config --global user.email "fernandoaraujoaccorsi@gmail.com"
+Touch relatorio2.txt ( Criar arquivo)
+vi relatorio2.txt (Editar no arquivo)
+Git init (inicializar um repositório)
+git add relatorio2.txt (adicionar o arquivo no repositorio)
+git add exercicio2.html(adicionar o link no repositorio)
+
