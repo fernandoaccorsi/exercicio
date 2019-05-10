@@ -8,4 +8,7 @@ vi relatorio2.txt (Editar no arquivo)
 Git init (inicializar um repositório)
 git add relatorio2.txt (adicionar o arquivo no repositorio)
 git add exercicio2.html(adicionar o link no repositorio)
+git commit -m "" (comitar o repositório)
+git remote add origin ( Apontar o repositório para o GIT HUB)
+git push origin master (mandar o repositório pro git rub)
 
