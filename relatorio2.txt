@@ -11,4 +11,20 @@ git add exercicio2.html(adicionar o link no repositorio)
 git commit -m "" (comitar o repositório)
 git remote add origin ( Apontar o repositório para o GIT HUB)
 git push origin master (mandar o repositório pro git rub)
+  
+SEGUNDA PARTE 
 
+
+mkdir accorsi2 (criar pasta "accorsi2")
+cd accorsi2 (entrar na pasta "accorsi2"git config --global user.name "fernandoaccorsi"(colocar o nome )
+git config --global user.email "fernandoaraujoaccorsi@gmail.com" (colocar o email)
+git clone https://github.com/luizfelipepio/exercicio.git ( clonar o repositorio do meu amigaozao)
+vi exercicio2.html (modificar o site do meu parceiro)
+git add exercicio2.html (adicionar o arquivo no repositorio)
+git commit-m "mudança no site" (comitar o repositorio)
+git push origin master (devolver o repositorio para o git hub do amigo)
+
+
+ALTERAÇÕES FEITAS PELO PARCEIRO NO MEU SITE
+
+Ele adicionou novas frases e as formatou colocando várias tags 
